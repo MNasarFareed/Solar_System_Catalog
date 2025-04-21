@@ -1,3 +1,31 @@
-# Solar_System_Catalog
+ Solar System Explorer
+ 
+A responsive web application for exploring celestial bodies with interactive 3D visualization.
 
-Solar System Explorer is an interactive web application that provides detailed information about planets, moons, comets, asteroids, and space missions. Built with Flask (Python) for the backend, MySQL for database management, and HTML/CSS/JavaScript for the frontend, this project delivers an educational and visually engaging experience.
+✨ Key Features
+
+Detailed Profiles for stars(sun), planets, comets, and asteroids
+
+Educational Content with a Quiz Form
+
+Admin Dashboard for content management (CRUD operations)
+
+🛠 Tech Stack
+Component	Technologies Used
+Frontend	HTML5, CSS3, JavaScript 
+Backend	Python (Flask), RESTful API
+Database	MySQL
+
+🚀 Project Structure
+Solar_System_Explorer/  
+├── Backend/          # Flask app, models, routes  
+├── Frontend/         # Static files & templates  
+├── Database/         # SQL schemas & migrations  
+└── docs/             # Project documentation  
+
+Why It Stands Out
+✅ Educational – Perfect for astronomy enthusiasts and students
+✅ Modern UI – Responsive design with smooth animations
+✅ Extensible – Modular architecture for adding new features
+
+Need to highlight something specific? I can tweak this 
